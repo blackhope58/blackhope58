@@ -1,4 +1,4 @@
-## <div align="left">Hi there 👋, I'm Furkan Kaya </div>  
+## <div align="left">Hi there 👋, I'm Sıtkı Can ERZURUM </div>  
 
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--5SXqnWZ2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif)
 
@@ -10,10 +10,10 @@
 
 <br/>  
 <p>
-<a href="https://github.com/lyndray">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lyndray&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lyndray&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=lyndray&theme=algolia"/> 
+<a href="https://github.com/blackhope58">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=blackhope58&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blackhope58&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=blackhope58&theme=algolia"/> 
 </a>
 </p>
 
@@ -39,7 +39,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Lyndray" target="_blank">
+<a href="https://github.com/blackhope58" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/furkankaya98/" target="_blank">
